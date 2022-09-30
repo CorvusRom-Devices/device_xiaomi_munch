@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_munch.mk
+    $(LOCAL_DIR)/bootleg_munch.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_munch-user \
-    lineage_munch-userdebug \
-    lineage_munch-eng
+    bootleg_munch-user \
+    bootleg_munch-userdebug \
+    bootleg_munch-eng
