@@ -31,4 +31,4 @@ BUILD_FINGERPRINT := Redmi/munch/munch:12/RKQ1.211001.001/V13.0.5.0.SLMMIXM:user
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Specification for Gapps
-WITH_GAPPS := true
+#WITH_GAPPS := true
