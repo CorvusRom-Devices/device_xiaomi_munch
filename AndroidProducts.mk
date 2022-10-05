@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_munch.mk
+    $(LOCAL_DIR)/corvus_munch.mk
 
 COMMON_LUNCH_CHOICES := \
-    bootleg_munch-user \
-    bootleg_munch-userdebug \
-    bootleg_munch-eng
+    corvus_munch-user \
+    corvus_munch-userdebug \
+    corvus_munch-eng
