@@ -1,0 +1,13 @@
+[
+  {
+    "repository" : "device_xiaomi_sm8250-common",
+    "target_path": "device/xiaomi/sm8250-common",
+    "revision"   : "13"
+  },
+  {
+    "repository" : "spkal01/android_vendor_xiaomi_munch",
+    "target_path": "vendor/xiaomi/munch",
+    "branch"     : "pyro",
+    "remote"     : "gitlab"
+  }
+]
